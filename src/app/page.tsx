@@ -1,0 +1,1 @@
+import PixCheckout from '../components/PixCheckout';export default function Page(){return(<div><h1>Planos</h1><PixCheckout/></div>);}
